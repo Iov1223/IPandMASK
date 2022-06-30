@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="M:IPandMASK.Program.IPandMASK(System.String[],System.String)">
+            <summary>
+            Метод принимающий значения IP и MASK и проверяющий эти значения на корректность
+            </summary>
+            <param name="arr"></param>
+            <param name="text"></param>
+        </member>
+        <member name="M:IPandMASK.Program.PrintArr(System.String[],System.String)">
+            <summary>
+            Метод выводящий принятые значения IP и MASK на экран
+            </summary>
+            <param name="arr"></param>
+            <param name="text"></param>
+        </member>
+    </members>
+</doc>
